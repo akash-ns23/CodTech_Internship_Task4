@@ -21,7 +21,7 @@ MENTOR: NEELA SANTOSH
 - scikit-learn
 
 ## Files Included
-- `codtech_task4_ml_model.py` – Python script for training and evaluating the model.
+- `codtech_task4_machine_learning.py` – Python script for training and evaluating the model.
 - `README.md` – Project documentation with usage steps.
 
 ## How to Run
@@ -33,9 +33,8 @@ MENTOR: NEELA SANTOSH
 
 2. **Run the Python script**:
    ```bash
-   python codtech_task4_ml_model.py
+   python codtech_task4_machine_learning.py
    ```
 
 3. **Output**:
-   - The script prints a classification report and accuracy score in the terminal.
-   - Results are saved manually in `task4_output_from_vs_code.txt`.
+  [task4_output_from_vs_code.txt](https://github.com/user-attachments/files/20968905/task4_output_from_vs_code.txt)
