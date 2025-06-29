@@ -1,5 +1,3 @@
-# CodTech Task 4 - Improved Machine Learning Model Implementation
-
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.feature_extraction.text import CountVectorizer
